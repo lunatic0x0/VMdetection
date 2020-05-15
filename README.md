@@ -1,5 +1,6 @@
 # VMdetection
-vm_detection project allows you to run various checks which will detect whether the system is virtual machine or not. 
+vm_detection project allows you to run various checks which will detect whether the system is virtual machine or not.
+Malwares can run these checks as anti-vm techniques.
 This program can be executed on windows platform only. Checks applied will only be able to detect VMware hosted vm. But this can be also extended to work with virtualbox. 
 I have tested this program with VMware 15 and Windows 10 VM.
 
